@@ -7,7 +7,7 @@ body, html {
 	height: 100% !important;
 }
 h1 {
-	font-weight: 700;
+	font-weight: 800;
 }
 h1 strong {
 	font-weight: 900;
@@ -22,7 +22,7 @@ h2 {
 	text-transform: uppercase;
 }
 h3, h4 {
-	color: #333;
+	color: #582f86;
 	font-size: 20px;
 	font-weight: 600;
 }
@@ -204,7 +204,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	height: auto;
 	text-align: center;
 	color: #fff;
-	background: url(../img/intro-bg.jpg) no-repeat center center;
+	background: url(../img/Gate_2.jpg) no-repeat center center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -213,7 +213,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 .intro .overlay {
 	padding: 100px 0;
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#6b4da8+0,4977c2+100&0.85+0,0.85+100 */
-	background: -moz-linear-gradient(left, rgba(107,77,168,0.85) 0%, rgba(73,119,194,0.85) 100%); /* FF3.6-15 */
+	background: -moz-linear-gradient(left, rgba(99,55,120,0.85) 0%, rgba(232,155,81,0.85) 100%); /* FF3.6-15 */
 	background: -webkit-linear-gradient(left, rgba(107,77,168,0.85) 0%, rgba(73,119,194,0.85) 100%); /* Chrome10-25,Safari5.1-6 */
 	background: linear-gradient(to right, rgba(107,77,168,0.85) 0%, rgba(73,119,194,0.85) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d96b4da8', endColorstr='#d94977c2', GradientType=1 ); /* IE6-9 */
@@ -289,7 +289,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6b4da8', end
 /* Portfolio Section */
 #portfolio {
 	padding: 100px 0;
-	background: #f6f6f6;
+	background: #c6e3c6;
 }
 .categories {
 	padding-bottom: 30px;
