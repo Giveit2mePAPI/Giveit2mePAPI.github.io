@@ -475,7 +475,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6b4da8', end
 /* Contact Section */
 #contact {
 	color: #fff;
-	background: url(../img/contact-bg.jpg) no-repeat center top;
+	background: url(../img/chicken_2.jpg) no-repeat center top;
 	background-color: #7bc3d1;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -612,8 +612,8 @@ section {
 	padding: 120px 0;
 }
 header .intro-text {
-	padding-top: 150px;
-	padding-bottom: 150px;
+	padding-top: 250px;
+	padding-bottom: 250px;
 }
 }
 
