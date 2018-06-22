@@ -1,5 +1,5 @@
 body, html {
-	font-family: 'Eras Demi ITC', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	text-rendering: optimizeLegibility !important;
 	-webkit-font-smoothing: antialiased !important;
 	color: #666;
@@ -23,12 +23,12 @@ h2 {
 }
 h3 {
 	color: #ffffff;
-	font-size: 22px;
+	font-size: 20px;
 	font-weight: 600;
 }
 h4 {
 	color: #582f86;
-	font-size: 22px;
+	font-size: 24px;
 	font-weight: 600;
 }
 h5 {
@@ -207,20 +207,18 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	display: table;
 	width: 100%;
 	height: auto;
-	text-align: center;
+	text-align: right;
 	color: #fff;
-	background: url(../img/Gate_2.jpg) no-repeat center center;
+	background: url(../img/Coop_Final.jpg) no-repeat center center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
 	-o-background-size: cover;
 }
 .intro .overlay {
-	padding: 100px 0;
+	padding: 50px 0;
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#6b4da8+0,4977c2+100&0.85+0,0.85+100 */
-	background: -moz-linear-gradient(left, rgba(99,55,120,0.85) 0%, rgba(232,155,81,0.85) 100%); /* FF3.6-15 */
-	background: -webkit-linear-gradient(left, rgba(107,77,168,0.85) 0%, rgba(73,119,194,0.85) 100%); /* Chrome10-25,Safari5.1-6 */
-	background: linear-gradient(to right, rgba(107,77,168,0.85) 0%, rgba(73,119,194,0.85) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	background: linear-gradient(to right, rgba(165,155,135,0.) 1%, rgba(0,0,0,0.5) 1%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d96b4da8', endColorstr='#d94977c2', GradientType=1 ); /* IE6-9 */
 }
 .section-title.center {
@@ -593,19 +591,19 @@ color: #2c3e50;
 }
 
 /* Media Queries */
-@media(min-width:768px) {
+@media(mid-width:768px) {
 .intro {
 	height: 100%;
 	padding: 0;
 	color: #fff;
 }
 .intro H1 {
-	font-size: 60px;
-	font-weight: 600;
+	font-size: 70px;
+	font-weight: 700;
 	text-transform: uppercase;
 }
 .intro .intro-text p {
-	font-size: 20px;
+	font-size: 14px;
 	margin-bottom: 40px;
 	margin-top: 20px;
 	letter-spacing: 2px;
